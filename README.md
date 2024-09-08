@@ -12,7 +12,7 @@ This project focuses on analyzing the profitability of growing a B2C seafood bus
 4. Profitability Metrics: Provides detailed calculations on gross margins, profit margins, and cost breakdowns.
 5. Financial Projections: Offers projections on revenue growth, customer acquisition, and operational scaling.
 
-Key Analysis:
+**Key Analysis:**
 1. Cost Analysis
 2. Breakeven Analysis
 3. Concerns With The Analysis
